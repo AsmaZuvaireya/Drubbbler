@@ -1,0 +1,134 @@
+<svg viewBox="0 0 700 258" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+      <circle id="path-1" cx="66" cy="66" r="66"/>
+      <path id="path-3" d="M15.442 1.183c0 4.11-3.332 7.442-7.442 7.442S.558 5.293.558 1.183c0-.744 14.884-.744 14.884 0z"/>
+      <path d="M49.955.65l-.143-.206s-4.607-.368-7.657.17C29.353 2.87 30.973 17.815 30.973 17.815l8.335 47.27S20.133 71.517 8.662 75.57c-11.47 4.053-7.243 16.51-7.243 16.51l13.605 48.37 6.258.443 1.696-.605.045.164 65.404-20.673L66.546 12.954S62.957-1.644 50.155.614c-.067.01-.134.023-.2.036z" id="path-5"/>
+      <path id="path-7" d="M23.025 140.45L9.42 92.076S5.19 79.62 16.66 75.567c11.47-4.052 30.646-10.48 30.646-10.48l-8.335-47.27S37.353 2.87 50.155.612c12.803-2.257 16.392 12.34 16.392 12.34L88.43 119.778 23.024 140.45z"/>
+      <path d="M51.274.456c-3.106-.102-7.305-.162-9.12.157-12.8 2.258-11.18 17.203-11.18 17.203l8.334 47.27S20.133 71.517 8.662 75.57c-11.47 4.053-7.243 16.51-7.243 16.51l13.605 48.37 6.258.443 1.696-.605.045.164 65.404-20.673L66.546 12.954S63.167-.788 51.274.456z" id="path-9"/>
+      <path d="M73 20V2.005C73 .897 72.105 0 71.002 0H6.998C5.898 0 5 .898 5 2.005V20H2.006C.903 20 0 20.9 0 22.01v7.98C0 31.1.898 32 2.006 32h73.988C77.097 32 78 31.1 78 29.99v-7.98C78 20.9 77.102 20 75.994 20H73z" id="path-11"/>
+      <path d="M0 30.928C0 13.848 13.85 0 30.922 0H70.8c.39 0 .753.32.806.696l11.02 77.688c.054.384-.218.695-.604.695H39.545C17.705 79.08 0 61.38 0 39.54v-8.612zm13.64-1.876c-.11-8.545 6.733-15.47 15.275-15.467l41.774.015c.392 0 .71.31.71.705v51.268c0 .39-.307.704-.702.704h-30.22c-14.556 0-26.508-11.793-26.697-26.35l-.14-10.875z" id="path-13"/>
+      <path id="path-15" d="M0 3.206C0 1.436 1.43 0 3.198 0h97.604C102.568 0 104 1.427 104 3.206v105.386C104 120.968 93.98 131 81.594 131H22.406C10.032 131 0 120.965 0 108.592V3.206z"/>
+      <path d="M30 49.913c10.568-.94 18.987-9.35 19.94-19.913H30v19.913zm-4-.005C15.46 48.944 7.068 40.545 6.118 30H26v19.908zm4-43.82C40.568 7.025 48.987 15.435 49.94 26H30V6.087zm-4 .004C15.46 7.056 7.068 15.455 6.118 26H26V6.092z" id="path-17"/>
+      <path id="path-19" d="M0 3.007C0 1.347 1.34 0 3.002 0h483.996C488.656 0 490 1.336 490 3.007V11.5c0 6.35-5.15 11.5-11.51 11.5H11.51C5.153 23 0 17.853 0 11.5V3.007z"/>
+      <path id="path-21" d="M0 0h366v205.875H0z"/>
+  </defs>
+  <g id="home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+      <g id="Artboard-4">
+          <g id="illustration">
+              <path id="shadow" opacity=".292" fill="#393939" d="M0 256h700v2H0z"/>
+              <g id="trophy">
+                  <g id="Drubbbly">
+                      <g id="ball" transform="translate(538 91)">
+                          <g id="Group">
+                              <mask id="mask-2" fill="#FFF">
+                                  <use xlink:href="#path-1"/>
+                              </mask>
+                              <use id="Oval-46" fill="#FFD135" xlink:href="#path-1"/>
+                              <circle id="Oval-48" fill="#FFC500" mask="url(#mask-2)" cx="59" cy="62" r="66"/>
+                              <path d="M107.74 14.872C96.365 5.576 81.833 0 66 0 29.55 0 0 29.55 0 66c0 23.704 12.496 44.49 31.26 56.128C16.454 110.025 7 91.616 7 71 7 34.55 36.55 5 73 5c12.747 0 24.65 3.613 34.74 9.872z" id="Oval-50" opacity=".208" fill="#fff" mask="url(#mask-2)"/>
+                              <path d="M74.5 132c13.012 0 40.92-2.223 49.5-14 8.717-11.965 12-33.63 12-52 0-18.363.71-41.036-8-53C119.42 1.215 87.518 0 74.5 0 48.266 0 27 29.55 27 66s21.266 66 47.5 66z" id="Oval-47" stroke="#fff" stroke-width="2" opacity=".25" mask="url(#mask-2)"/>
+                              <path d="M0 68s2-1 25-2 107 3 107 3" id="middle" stroke="#fff" stroke-width="2" opacity=".25" mask="url(#mask-2)"/>
+                              <path d="M69.746 90.096c6.25 6.368 14.37 12.452 21.965 15.55C96.997 107.805 102.03 109 106 109c4.723 0 9.173-2.692 13.076-5.68C127.952 96.53 134 84.037 134 68.5c0-16.016-6.427-28.86-15.754-35.432C114.546 30.462 110.39 28 106 28c-5.28 0-12.435 1.437-19.567 5.39-5.427 3.01-10.842 7.895-15.41 12.255C64.014 52.335 59 59.58 59 68.5c0 8.367 4.413 15.14 10.746 21.596z" id="right" stroke="#fff" stroke-width="2" opacity=".25" mask="url(#mask-2)"/>
+                              <path d="M1 48s2.323 3.71 4.078 8.166C6.144 58.872 7 61.222 7 65c0 4.235-1.897 8.83-2.93 12.718C2.66 83.012 2 87 2 87" id="left" stroke="#fff" stroke-width="2" opacity=".25" mask="url(#mask-2)"/>
+                              <g mask="url(#mask-2)">
+                                  <g transform="translate(19.000000, 64.000000)">
+                                      <mask id="mask-4" name="smile" fill="#FFF">
+                                          <use xlink:href="#path-3"></use>
+                                      </mask>
+                                      <use id="smile" stroke="none" fill="#D39300" fill-rule="evenodd" type="MSShapeGroup" xlink:href="#path-3"></use>
+                                      <ellipse id="Oval-12" stroke="none" opacity="0.519356343" fill="#FFC500" fill-rule="evenodd" type="MSShapeGroup" mask="url(#mask-4)" cx="7.5" cy="8.5" rx="5.5" ry="4.5"></ellipse>
+                                  </g>
+                              </g>
+                              <path d="M47 69c3.314 0 6-2.686 6-6s-2.686-6-6-6-6 2.686-6 6 2.686 6 6 6zM9 69c3.314 0 6-2.686 6-6s-2.686-6-6-6-6 2.686-6 6 2.686 6 6 6z" id="face" opacity=".21" fill="#fff" mask="url(#mask-2)"/>
+                              <path d="M43 55c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm-29 0c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3z" id="eyes" fill="#D39300" mask="url(#mask-2)"/>
+                          </g>
+                          <circle id="Oval-45" stroke="#D39300" stroke-width="2" cx="66" cy="66" r="66"/>
+                      </g>
+                      <g id="glove" transform="translate(604 60)">
+                          <g id="fg">
+                              <mask id="mask-6" fill="#FFF">
+                                  <use xlink:href="#path-5"/>
+                              </mask>
+                              <use id="glove" fill="#FFD135" xlink:href="#path-5"/>
+                              <mask id="mask-8" fill="#FFF">
+                                  <use xlink:href="#path-7"/>
+                              </mask>
+                              <use id="bg-2" fill="#FFC500" xlink:href="#path-7"/>
+                              <path d="M44.205 103.55l-.594-6.277-5.882 1.576.595 6.275 5.882-1.576zm-10.74 8.442l-3.082.826-1.39-5.193 3.975-1.065-.595-6.276-3.57.957-1.39-5.192 4.46-1.196-.572-6.195 5.356-1.435.573 6.195 5.882-1.576-.573-6.194 5.354-1.435.573 6.196 3.083-.826 1.39 5.193-3.974 1.065.594 6.276 3.57-.956 1.392 5.192-4.463 1.196.575 6.368-5.355 1.435-.576-6.37-5.882 1.577.575 6.368-5.355 1.435-.576-6.368zm27.78-24.525l-4.623 2.544-2.668-4.763 7.502-4.62 4.26-1.14 6.664 28.6-6.167 1.653-4.967-22.273z" id="#1" fill="#E9AC00" mask="url(#mask-8)"/>
+                          </g>
+                          <mask id="mask-10" fill="#FFF">
+                              <use xlink:href="#path-9"/>
+                          </mask>
+                          <use id="glove-2" stroke="#D39300" stroke-width="2" xlink:href="#path-9"/>
+                      </g>
+                  </g>
+                  <g id="bottom" transform="translate(565 225)">
+                      <mask id="mask-12" fill="#FFF">
+                          <use xlink:href="#path-11"/>
+                      </mask>
+                      <use id="Rectangle-74" fill="#393939" xlink:href="#path-11"/>
+                      <path d="M3 13V7c1.657 0 3-1.343 3-3h21c0 1.657 1.343 3 3 3v6c-1.657 0-3 1.343-3 3H6c0-1.657-1.343-3-3-3z" id="Rectangle-78" fill="#FFC500" mask="url(#mask-12)"/>
+                      <path id="Rectangle-76" opacity=".091" fill="#fff" mask="url(#mask-12)" d="M14 0h10v20H14z"/>
+                      <path id="Rectangle-79" opacity=".229" fill="#fff" mask="url(#mask-12)" d="M14 4h10v12H14z"/>
+                      <path id="Rectangle-77" opacity=".091" fill="#fff" mask="url(#mask-12)" d="M12 20h10v11H12z"/>
+                  </g>
+                  <path d="M638 245v-17.995c0-1.108-.895-2.005-1.998-2.005h-64.004c-1.1 0-1.998.898-1.998 2.005V245h-2.994c-1.103 0-2.006.9-2.006 2.01v7.98c0 1.108.898 2.01 2.006 2.01h73.988c1.103 0 2.006-.9 2.006-2.01v-7.98c0-1.108-.898-2.01-2.006-2.01H638z" id="Rectangle-81" stroke="#393939" stroke-width="2"/>
+              </g>
+              <g id="coffee">
+                  <g id="Rectangle-53" transform="translate(3 153.36)">
+                      <mask id="mask-14" fill="#FFF">
+                          <use xlink:href="#path-13"/>
+                      </mask>
+                      <use fill="#F5F5F5" xlink:href="#path-13"/>
+                      <path d="M-5.01 25.135c0-17.08 13.85-30.928 30.92-30.928h39.88c.39 0 .752.32.805.696l11.02 77.688c.054.385-.218.697-.604.697H34.535c-21.84 0-39.545-17.698-39.545-39.54v-8.612zm13.677 2.96C8.535 17.32 17.167 8.59 27.93 8.593l37.748.013c.393 0 .712.315.712.707v54.46c0 .39-.308.706-.704.706H37.06c-15.436 0-28.1-12.51-28.29-27.948l-.103-8.437z" id="Rectangle-55" fill="#fff" mask="url(#mask-14)"/>
+                  </g>
+                  <path d="M3 183.94C3 166.852 16.85 153 33.93 153h40.185c.392 0 .756.318.81.695l11.068 77.61c.055.384-.218.695-.607.695H42.508C20.688 232 3 214.32 3 192.5v-8.56zm13-2.472c-.11-8.546 6.736-15.47 15.268-15.468l42.057.016c.384 0 .694.31.694.71v51.565c0 .393-.31.71-.707.71H42.98c-14.632 0-26.647-11.863-26.837-26.503L16 181.467z" id="Rectangle-54" stroke="#9D9D9D" stroke-width="2"/>
+                  <g id="bg" transform="translate(40.706 126)">
+                      <mask id="mask-16" fill="#FFF">
+                          <use xlink:href="#path-15"/>
+                      </mask>
+                      <use id="Rectangle-45" fill="#F6F6F6" xlink:href="#path-15"/>
+                      <rect id="Rectangle-48" fill="#FBFBFB" mask="url(#mask-16)" x="-1.605" y="-10.183" width="65.785" height="142.982" rx=".8"/>
+                      <rect id="Rectangle-49" fill="#fff" mask="url(#mask-16)" x="14.441" y="-10.183" width="32.893" height="142.982" rx=".8"/>
+                      <path id="Rectangle-47" opacity=".1" fill="#393939" mask="url(#mask-16)" d="M2.407 126H102.69v2H2.406z"/>
+                      <path id="Rectangle-50" opacity=".2" fill="#393939" mask="url(#mask-16)" d="M0 4.994h108.305v1H0z"/>
+                  </g>
+                  <path d="M40 130.197c0-1.766 1.43-3.197 3.198-3.197h97.604c1.766 0 3.198 1.438 3.198 3.197v104.805c0 12.15-9.854 21.998-21.992 21.998H61.992C49.846 257 40 247.15 40 235.002V130.197z" id="Rectangle-46" stroke="#9D9D9D" stroke-width="2"/>
+                  <g transform="translate(78 160)">
+                      <circle id="Oval-29" stroke="#F185A8" stroke-width="6.4" cx="28" cy="28" r="28"/>
+                      <circle id="Oval-33" fill="#F185A8" cx="52.955" cy="56" r="2"/>
+                      <mask id="mask-18" fill="#FFF">
+                          <use xlink:href="#path-17"/>
+                      </mask>
+                      <use id="Oval-30" fill="#F185A8" xlink:href="#path-17"/>
+                      <path d="M59 51c12.703 0 23-10.297 23-23S71.703 5 59 5 36 15.297 36 28s10.297 23 23 23zm0-4c10.493 0 19-8.507 19-19S69.493 9 59 9s-19 8.507-19 19 8.507 19 19 19z" id="Path" fill="#F5F5F5" mask="url(#mask-18)"/>
+                      <path d="M-3 51c12.703 0 23-10.297 23-23S9.703 5-3 5s-23 10.297-23 23 10.297 23 23 23zm0-4c10.493 0 19-8.507 19-19S7.493 9-3 9s-19 8.507-19 19 8.507 19 19 19z" id="Path" fill="#FBFBFB" mask="url(#mask-18)"/>
+                  </g>
+              </g>
+              <g id="mac" transform="translate(105 1)">
+                  <rect id="screen" stroke="#393939" stroke-width="2" fill="#393939" x="48" y="0" width="394" height="254" rx="8"/>
+                  <circle id="Oval-19" fill="#C3C3C3" cx="245" cy="7" r="2"/>
+                  <g id="fg" transform="translate(0 234)">
+                      <mask id="mask-20" fill="#FFF">
+                          <use xlink:href="#path-19"/>
+                      </mask>
+                      <use fill="#EBEBEB" xlink:href="#path-19"/>
+                      <path id="shadow" fill="#D8D8D8" mask="url(#mask-20)" d="M0 14h490v8H0z"/>
+                      <path id="shadow-2" opacity=".5" fill="#fff" mask="url(#mask-20)" d="M0 1h490v3H0z"/>
+                      <path d="M203 0h84v4c0 2.21-1.793 4-3.995 4h-76.01C204.79 8 203 6.205 203 4V0z" id="shadow" fill="#C3C3C3" mask="url(#mask-20)"/>
+                  </g>
+                  <path d="M0 235.99c0-1.1.896-1.99 2-1.99h486c1.105 0 2 .89 2 1.99v12.005c0 4.42-3.576 8.005-7.995 8.005H7.995C3.58 256 0 252.416 0 247.995V235.99z" id="border" stroke="#393939" stroke-width="2"/>
+                  <foreignObject transform="translate(62 14)" width="366" height="205.875">
+                      <!-- When webkit will be ready :'( -->
+                      <!-- <div xmlns="http://www.w3.org/1999/xhtml">
+                          <video width="366" height="206" autoplay="autoplay">
+                            <source src="./video.mp4" type="video/mp4" />
+                            <source src="./video.webm" type="video/webm" />
+                          </video>
+                      </div> -->
+                  </foreignObject>
+              </g>
+          </g>
+      </g>
+  </g>
+</svg>
